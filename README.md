@@ -1,1 +1,1 @@
-# webpack
+# Platzi Webpack Course
